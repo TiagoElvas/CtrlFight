@@ -1,3 +1,7 @@
+
+#🥊 CTRL FIGHT 🥊
+
+
 Ctrl Fight is my first project developed during the 4th week of my bootcamp. It's a fun multiplayer fighting game where you can choose between 5 players with unique sounds and fun arenas.
 
 <img width="1480" alt="Screenshot 2024-11-09 at 15 43 39" src="https://github.com/user-attachments/assets/2048d6e9-4ce3-492b-8409-a730d0898eb9">
