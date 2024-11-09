@@ -1,0 +1,1 @@
+Ctrl Fight is my first project developed during the 4th week of my bootcamp. It's a fun multiplayer fighting game where you can choose between 5 players with unique sounds and fun arenas.
