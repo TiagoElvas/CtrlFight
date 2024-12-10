@@ -11,6 +11,6 @@ Ctrl Fight is my first project developed during the 4th week of my bootcamp. It'
 <img width="1475" alt="Screenshot 2024-11-09 at 15 45 26" src="https://github.com/user-attachments/assets/dfcd909f-701a-4ebd-bf9a-2fffea7a2457">
 <img width="1445" alt="Screenshot 2024-11-09 at 15 46 07" src="https://github.com/user-attachments/assets/5eaf77e6-68b4-482a-849c-759fe3e35d4f">
 
-
-
+<h2>Link:</h2>
+Project Page: https://itch.io/jam/7-game-jam/rate/3046515
 
